@@ -8,7 +8,7 @@
         <?php
         
             if(phpversion() >= 5.4):
-                echo "\nOl√° mundo";
+                echo "Ol· Mundo";
             else: 
                 
             endif;

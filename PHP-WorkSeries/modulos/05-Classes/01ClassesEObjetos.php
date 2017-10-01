@@ -20,8 +20,7 @@
 
         require('./class/ClassesObjetos.php');
 
-        $nova = new ClassesObjetos();
-       $nova->consClasse();
+        $nova = new ClassesObjeto;
 
 
     ?>
