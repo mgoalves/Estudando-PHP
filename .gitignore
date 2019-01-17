@@ -1,0 +1,30 @@
+## Eclipse
+.project
+.metadata
+.classpath
+.settings/
+
+## IDEA
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# NetBeans
+nb-configuration.xml
+nbactions.xml
+
+# Java
+classes/
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+.svn/
+
+# Sass
+.sass-cache
+/.tern-project
+flyway.properties
